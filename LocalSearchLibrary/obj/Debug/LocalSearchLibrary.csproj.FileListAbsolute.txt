@@ -1,0 +1,48 @@
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+C:\CollegeWork\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+C:\Users\Kevin\Documents\CollegeWork\Research\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csprojResolveAssemblyReference.cache
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+C:\Development\EightQueens\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csprojAssemblyReference.cache
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.CoreCompileInputs.cache
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.CopyComplete
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+H:\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.AssemblyReference.cache
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.CoreCompileInputs.cache
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.CopyComplete
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+G:\My Drive\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.dll
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\LocalSearchLibrary.pdb
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.dll
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\bin\Debug\ChessLibrary.pdb
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.AssemblyReference.cache
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.csproj.CoreCompileInputs.cache
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSea.F8DAEAE3.Up2Date
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.dll
+D:\NNU_Google\Development\EightQueens\EightQueens_07_09_2014\EightQueens\LocalSearchLibrary\obj\Debug\LocalSearchLibrary.pdb

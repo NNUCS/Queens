@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EightQueens/1.0.0": {
+        "dependencies": {
+          "ChessLibrary": "1.0.0",
+          "SolverLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EightQueens.dll": {}
+        }
+      },
+      "ChessLibrary/1.0.0": {
+        "runtime": {
+          "ChessLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SolverLibrary/1.0.0": {
+        "dependencies": {
+          "ChessLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SolverLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EightQueens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChessLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolverLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
